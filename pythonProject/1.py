@@ -4,7 +4,7 @@ import telebot
 from datetime import datetime
 from telebot import types
 
-token1="7545888045:AAFmKfXBbRPUyteypzDWSlCX5jCY_5aZe2k"
+token1="токен"
 bot=telebot.TeleBot(token=token1)
 
 def log(mes):
